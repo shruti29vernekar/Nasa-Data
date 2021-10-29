@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Nasa%20Data/static/css/main.d4ee43a8.chunk.css",
+    "main.js": "/Nasa%20Data/static/js/main.30b45e90.chunk.js",
+    "main.js.map": "/Nasa%20Data/static/js/main.30b45e90.chunk.js.map",
+    "runtime-main.js": "/Nasa%20Data/static/js/runtime-main.dd7f1229.js",
+    "runtime-main.js.map": "/Nasa%20Data/static/js/runtime-main.dd7f1229.js.map",
+    "static/js/2.eceece08.chunk.js": "/Nasa%20Data/static/js/2.eceece08.chunk.js",
+    "static/js/2.eceece08.chunk.js.map": "/Nasa%20Data/static/js/2.eceece08.chunk.js.map",
+    "index.html": "/Nasa%20Data/index.html",
+    "static/css/main.d4ee43a8.chunk.css.map": "/Nasa%20Data/static/css/main.d4ee43a8.chunk.css.map",
+    "static/js/2.eceece08.chunk.js.LICENSE.txt": "/Nasa%20Data/static/js/2.eceece08.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd7f1229.js",
+    "static/js/2.eceece08.chunk.js",
+    "static/css/main.d4ee43a8.chunk.css",
+    "static/js/main.30b45e90.chunk.js"
+  ]
+}
